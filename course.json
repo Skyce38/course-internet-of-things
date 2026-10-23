@@ -1,0 +1,23 @@
+{
+  "id": "internet-of-things",
+  "name": "Electronics & Internet of Things",
+  "thai": "อิเล็กทรอนิกส์พื้นฐานและอินเทอร์เน็ตของสรรพสิ่ง",
+  "short": "IoT",
+  "repo": "course-internet-of-things",
+  "code": "",
+  "color": "#96703e",
+  "tags": [
+    "IoT",
+    "Electronics",
+    "Sensors"
+  ],
+  "description": "คลังอิเล็กทรอนิกส์ เซนเซอร์ และ IoT พร้อมแยกประเภทเอกสาร",
+  "source": "โปรเจกต์ IoT และบันทึกคลังเรียนเดิม",
+  "categories": [
+    "assignments",
+    "slides",
+    "summaries",
+    "tutoring",
+    "exams"
+  ]
+}
